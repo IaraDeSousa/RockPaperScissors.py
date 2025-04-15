@@ -10,7 +10,7 @@ from collections import Counter
 
 game_list = ['rock', 'paper', 'scissors']
 
-print(Fore.MAGENTA + 'Welcome to Rock, Paper, Scissors - are you ready to beat the computer?')
+print(Fore.MAGENTA + 'Welcome to Rock, Paper, Scissors - are you ready to beat the computer? \nScore 3 to win the game!')
 
 def countdown(time_secs):
     while time_secs:
